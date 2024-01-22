@@ -1,0 +1,18 @@
+<svg height="110" width="160" xmlns="http://www.w3.org/2000/svg">
+<path d="M120,90 L120,80 L110,70 L100,70 L100,60 L110,60 L120,70 L110,80 L100,80" fill="none" stroke="black" stroke-width="1"/>
+<path d="M40,30 L30,20 L40,10 L30,10 L40,20 L50,10 L60,20 L50,30 L60,30 L60,40 L50,40" fill="none" stroke="black" stroke-width="1"/>
+<path d="M140,20 L130,10 L120,10 L130,20 L140,10" fill="none" stroke="black" stroke-width="1"/>
+<path d="M40,60 L50,70 L40,80 L30,70 L30,60 L40,70 L50,60 L60,70 L60,60 L60,50 L70,60" fill="none" stroke="black" stroke-width="1"/>
+<path d="M120,40 L110,50 L100,50 L90,50 L90,60 L80,50 L80,60 L70,50" fill="none" stroke="black" stroke-width="1"/>
+<path d="M20,10 L20,20 L20,30 L30,30 L30,40 L20,40 L20,50 L30,50 L40,40 L40,50 L50,50" fill="none" stroke="black" stroke-width="1"/>
+<path d="M140,70 L140,60 L130,50 L130,40 L140,50 L140,40 L140,30 L130,30 L120,20 L120,30 L110,40" fill="none" stroke="black" stroke-width="1"/>
+<path d="M60,10 L50,20" fill="none" stroke="black" stroke-width="1"/>
+<path d="M10,20 L10,30 L10,40 L10,50 L10,60 L20,70 L20,60 L10,70 L20,80 L20,90 L30,80" fill="none" stroke="black" stroke-width="1"/>
+<path d="M10,90 L10,80" fill="none" stroke="black" stroke-width="1"/>
+<path d="M100,40 L100,30 L110,30 L100,20 L110,20 L100,10 L110,10" fill="none" stroke="black" stroke-width="1"/>
+<path d="M10,10" fill="none" stroke="black" stroke-width="1"/>
+<path d="M130,60 L120,60 L120,50" fill="none" stroke="black" stroke-width="1"/>
+<path d="M130,80 L140,80 L130,70" fill="none" stroke="black" stroke-width="1"/>
+<path d="M60,80 L60,90 L50,90 L40,90 L50,80" fill="none" stroke="black" stroke-width="1"/>
+<path d="M30,90" fill="none" stroke="black" stroke-width="1"/>
+</svg>
